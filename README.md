@@ -11,7 +11,6 @@ Coming soon!
 ### ![medium](https://img.shields.io/badge/Medium-bd9322)  I've written a calculator before! 😌
 - [My Name is Snorlax](https://gist.github.com/log101/cae289704aec54fa054c05b26833a86b)
 - [I'm an API](https://gist.github.com/log101/17d34b7f920bb1bc98ace527befb160a)
-- [Text To Speech API](https://gist.github.com/Sddilora/7da48f8c2ee7fa89932c848fdf21171e)
 
 ### ![medium](https://img.shields.io/badge/Hard-c6680d)  I know why frameworks exits 😎
 
