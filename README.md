@@ -1,17 +1,25 @@
 # YARP
+
 Yet Another Roadmap for Programmers
 
-# Introduction
+## Introduction
+
 Coming soon!
 
-# Projects
+## Projects
 
-### ![easy](https://img.shields.io/badge/Easy-3fa017)  Prog.. What? 😶
+### Programlama derken? 😶
 
-### ![medium](https://img.shields.io/badge/Medium-bd9322)  I've written a calculator before! 😌
-- [My Name is Snorlax](https://gist.github.com/log101/cae289704aec54fa054c05b26833a86b)
-- [I'm an API](https://gist.github.com/log101/17d34b7f920bb1bc98ace527befb160a)
+### Daha önce hesap makinesi yazmıştım! 😌
 
-### ![medium](https://img.shields.io/badge/Hard-c6680d)  I know why frameworks exits 😎
+- Benim Adım Snorlax [Python](#), [Go](#) ![kolay](https://img.shields.io/badge/çayır_çimen_geze_geze-green)
 
-### ![medium](https://img.shields.io/badge/Legendary-a01717)  I'm a super-intelligent machine 🤖
+- Ben bir API'yim [Python](#), [Go](#) ![kolay](https://img.shields.io/badge/çayır_çimen_geze_geze-green)
+
+- Yazılar da Konuşur [Python](#), [Go](#) ![orta](https://img.shields.io/badge/yaparım_bilirsin-orange)
+
+### Framework nedir bilirim 😎
+
+- Kod Uçar Commit Kalır ![kolay](https://img.shields.io/badge/çayır_çimen_geze_geze-green)
+
+### Makinalaşmak istiyorum 🤖
