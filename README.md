@@ -27,7 +27,7 @@ Yakında!
 - [Kod Uçar Commit Kalır](https://github.com/log101/YARP/blob/main/projects/tr/kod-ucar-commit-kalir.md) ![kolay](https://img.shields.io/badge/çayır_çimen_geze_geze-green)
 
 - Yazılar da Konuşur [Go](https://github.com/log101/YARP/blob/main/projects/tr/yazilar-da-konusur-go.md) ![orta](https://img.shields.io/badge/yaparım_bilirsin-orange)
-.
+
 ### Makinalaşmak istiyorum 🤖
 
 ## Sıkça Sorulan Sorular
