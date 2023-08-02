@@ -28,7 +28,7 @@ Küçük harfler ve büyük harfler. Aynı yüzyüze sohbette olduğu gibi, aşa
 
 ## İpuçları
 
-- Parametre derken ne kastediyoruz? Mesela şu URL'deki `GET` parametreleri hangileri söyleyebilir misin?
+- Parametre derken neyi kastediyoruz? Mesela şu URL'deki `GET` parametreleri hangileri söyleyebilir misin?
   - `https://www.google.com/search?q=alidesidero`
 
 ## Kendini Biraz Daha Zorlamak İsteyenler İçin
