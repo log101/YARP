@@ -8,9 +8,9 @@ Pokémon çizgi filmini duymayan yoktur. Bu projede amacımız yazacağımız bi
 
 ## Kullanılacak Diller & Kütüphaneler
 
-- Python
-- PokéAPI'ye istek atabilmek için [`net/http`](https://pkg.go.dev/net/http) kütüphanesi
-- Bize dönecek JSON dosyasını kullanabilmek için [`json`](https://pkg.go.dev/encoding/json) kütüphanesi
+- Go
+  - PokéAPI'ye istek atabilmek için [`net/http`](https://pkg.go.dev/net/http) kütüphanesi
+  - Bize dönecek JSON dosyasını kullanabilmek için [`json`](https://pkg.go.dev/encoding/json) kütüphanesi
 
 ## Yapılacaklar
 
