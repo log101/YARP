@@ -1,6 +1,6 @@
 # Ping, PONG (Python)
 
-![](https://media.giphy.com/media/rpbYdRj0y1iRLdcRtE/giphy.gif)
+![gif](https://media.giphy.com/media/rpbYdRj0y1iRLdcRtE/giphy.gif)
 
 ## Giriş
 
