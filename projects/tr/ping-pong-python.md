@@ -1,5 +1,7 @@
 # Ping, PONG (Python)
 
+![](https://media.giphy.com/media/rpbYdRj0y1iRLdcRtE/giphy.gif)
+
 ## Giriş
 
 Küçük harfler ve büyük harfler. Aynı yüzyüze sohbette olduğu gibi, aşağı yukarı [50 senelik](https://en.wikipedia.org/wiki/Online_chat) bir mazisi olan çevrimiçi sohbetin de kendine has bir kültürü vardır. Mesela kelimeleri BÜYÜK harfle yazmak, "bağırmak" anlamına gelir. "Merhaba" ile "MERHABA" arasındaki fark gibi. Biz de bu projede BAĞIRAN BİR API YAZACAĞIZ!
