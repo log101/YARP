@@ -13,8 +13,8 @@ Küçük harfler ve büyük harfler. Aynı yüzyüze sohbette olduğu gibi, aşa
 
 ## Yapılacaklar
 
-1. Kullanıcıların `GET` isteği atacakları bir endpoint yaz.
-   - Bu endpoint `GET` parametresi olarak gönderilen herhangi bir metni büyük harfli olarak kullanıcıya dönmeli.
+- Kullanıcıların `GET` isteği atacakları bir endpoint yazın. Endpoint'in ismine kendiniz karar verebilirsiniz: `/buyuk` gibi.
+  - Bu endpoint `GET` parametresi olarak gönderilen herhangi bir metni büyük harfli olarak kullanıcıya dönmeli ve parametrenin anahtarının ismi `text` olmalı.
 
 ## Öğrenilmesi Gereken Konular & Kavramlar
 
@@ -33,4 +33,4 @@ Küçük harfler ve büyük harfler. Aynı yüzyüze sohbette olduğu gibi, aşa
 
 ## Kendini Biraz Daha Zorlamak İsteyenler İçin
 
-- Harfleri büyütülmüş metni kullanıcıya bir JSON nesnesi olarak sun. Mesela "log101" metni gelirse cevaben `{ "message": "LOG101" }` nesnesini döndür.
+- Harfleri büyütülmüş metni kullanıcıya bir JSON nesnesi olarak sunun. Mesela "log101" metni gelirse cevaben `{ "message": "LOG101" }` nesnesini döndürmelisiniz.
