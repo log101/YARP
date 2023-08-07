@@ -1,4 +1,4 @@
-# Ping, PONG (Go
+# Ping, PONG (Go)
 
 ![gif](https://media.giphy.com/media/rpbYdRj0y1iRLdcRtE/giphy.gif))
 
