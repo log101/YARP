@@ -10,7 +10,7 @@ Bu projede hedefimiz VoiceRSS' in [Text to Speech API'sini](https://www.voicerss
 
 ## Yapılacaklar
 
-- VoiceRSS'in [test sayfasına](https://www.voicerss.org/api/demo.aspx) girip kullanacağımız API'yi tarayıcınızdan deneyin.
+- VoiceRSS'in [örnek uygulamasına](https://www.voicerss.org/api/demo.aspx) bir göz atın.
 - API'ye seslendirmek istediğiniz metni içeren bir istek atın.
 - Gelen ses dosyasını bilgisayarınıza kaydedin.
 - Bir API oluşturun ve GET isteği atıldığında kullanıcıya sabit bir ses dosyası dönen bir endpoint yazın.
