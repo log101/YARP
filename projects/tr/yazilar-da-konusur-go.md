@@ -18,7 +18,8 @@ Bu projede hedefimiz VoiceRSS' in [Text to Speech API'sini](https://www.voicerss
 ## Kullanılacak Diller & Kütüphaneler
 
 - Kullanıcıların isteklerini yanıtlayabilmek için: [Fiber](https://gofiber.io/)
-- Ses verisini okuyabilmek için: [os](https://pkg.go.dev/os)
+- Ses verisini okuyabilmek için: [io](https://pkg.go.dev/io)
+- Ses verisini bilgisayarınıza kaydedebilmek için: [os](https://pkg.go.dev/os)
 - VoiceRSS'e istek atabilmek için: [net/http](https://pkg.go.dev/net/http)
 
 ## Öğrenilmesi Gereken Konular & Kavramlar
@@ -31,7 +32,7 @@ Bu projede hedefimiz VoiceRSS' in [Text to Speech API'sini](https://www.voicerss
 ## Dikkat Edilmesi Gerekenler
 
 - API'yi kullanabilmek için önce ücretsiz bir hesap oluşturup API şifresi almalısınız. Bu şifreyi attığınız istekle beraber sunucuya iletmelisiniz. Aksi halde API size yanıt vermeyecektir.
-- Herhangi bir programlama dilinde bilgisayarınızda dosya indirme, okuma, yazma gibi işlemler yapmak için yerleşik (built-in) kütüphaneler kullanıyoruz. GO dilinde bu `os` kütüphanesi oluyor. Bu işlemlerin nasıl yapılacağını bilmeniz bu projeyi tamamlayabilmeniz için önemli.
+- Herhangi bir programlama dilinde bilgisayarınızda dosya indirme, okuma, yazma gibi işlemler yapmak için yerleşik (built-in) kütüphaneler kullanıyoruz. GO dilinde bu `os` ve `io` kütüphaneleri oluyor. Bu işlemlerin nasıl yapılacağını bilmeniz bu projeyi tamamlayabilmeniz için önemli.
 - Kullanıcıya döneceğimiz dosyanın formatı RIFF (Resource Interchange File Format) ve içerik tipi "audio/wav". Endpoint fonksiyonunda bunu belirtmeniz tarayıcının gelen dosyası doğru bir şekilde anlamlandırmasını sağlayacaktır.
 
 ## Projenin Sağlaması Gereken Şartlar
