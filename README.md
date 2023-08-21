@@ -26,6 +26,8 @@ Yakında!
 
 - Yazılar da Konuşur [Go](https://github.com/log101/YARP/blob/main/projects/tr/yazilar-da-konusur-go.md) ![orta](https://img.shields.io/badge/yaparım_bilirsin-orange)
 
+- Yapma N'olursun! [Go](https://github.com/log101/YARP/blob/main/projects/tr/yapma-nolursun-go.md) ![orta](https://img.shields.io/badge/yaparım_bilirsin-orange)
+
 ### Makinalaşmak istiyorum 🤖
 
 ## Sıkça Sorulan Sorular
