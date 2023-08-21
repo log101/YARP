@@ -19,9 +19,12 @@ Biz de bu projede bir _yapılacaklar listesi_ API'si oluşturacağız ve unutmam
 - Yapılacak listesinde ekleme, silme, güncelleme ve listeleme işlemlerini yapabileceği API uçnoktaları (endpoint) yazın.
   - `/todos` - Tüm yapılacakları listeler
   - `/todos/:id` - Belirli bir yapılacağı gösterir
-  - `/todos` (POST) - Yeni bir yapılacak ekler
-  - `/todos/:id` (PUT) - Bir yapılacağı günceller
-  - `/todos/:id` (DELETE) - Bir yapılacağı siler
+  - `/todos` - Yeni bir yapılacak ekler
+    - Bu uçnoktaya `POST` metoduyla erişilmeli
+  - `/todos/:id` - Bir yapılacağı günceller
+    - Bu uçnoktaya `PUT` metoduyla erişilmeli
+  - `/todos/:id` - Bir yapılacağı siler
+    - Bu uçnoktaya `DELETE` metoduyla erişilmeli
 
 ## Öğrenilmesi Gereken Konular & Kavramlar
 
@@ -32,6 +35,7 @@ Biz de bu projede bir _yapılacaklar listesi_ API'si oluşturacağız ve unutmam
 ## Projenin Sağlaması Gereken Şartlar
 
 - API `8080` portunda çalışmalı.
+- API ile veri alışverişi JSON formatında olmalı
 - Uçnoktalara uygun olmayan bir istek atıldığında sunucunuz [400 Bad Request](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400) hatası dönmeli.
 - Talep edilen yapılacak bulunamadığı takdirde sunucunuz [404 Not Found](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404) hatası dönmeli.
 
