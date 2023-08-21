@@ -38,7 +38,7 @@ Biz de bu projede bir _yapılacaklar listesi_ API'si oluşturacağız ve unutmam
 ## İpuçları
 
 - Öncelikle sisteminizde PostgreSQL veritabanının kurulu ve çalışır durumda olduğundan emin olun. Komut satırından bağlanıp örnek bir veritabanı oluşturmayı deneyebilirsiniz.
-- Veritabanı işlemleri için Go'nun popüler bir kütüphanesi olan [GORM](https://gorm.io/docs/connecting_to_the_database.html)'u kullanabilirsiniz. Bu kütüphane veritabanı bağlantısından ve nesnelerini saklanabilir hale getirmekten sorumlu olacak.
+- Veritabanı işlemleri için Go'nun popüler bir kütüphanesi olan [GORM](https://gorm.io/docs/connecting_to_the_database.html)'u kullanabilirsiniz. Bu kütüphane veritabanı bağlantısından ve nesnelerinizi saklanabilir hale getirmekten sorumlu olacak.
 - Bir yapılacak nesnesinin nitelikleri nelerdir? Mesela başlık eklemeli mi yoksa sadece bir string tutmak yeter mi?
 
 ## Kendini Biraz Daha Zorlamak İsteyenler İçin
