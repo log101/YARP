@@ -22,7 +22,7 @@ Yakında!
 
 ### Framework nedir bilirim 😎
 
-- [Kod Uçar Commit Kalır](https://github.com/log101/YARP/blob/main/projects/VCS/kod-ucar-commit-kalir.md) ![kolay](https://img.shields.io/badge/çayır_çimen_geze_geze-green)
+- [Kod Uçar Commit Kalır](https://github.com/log101/YARP/blob/main/projects/git/kod-ucar-commit-kalir.md) ![kolay](https://img.shields.io/badge/çayır_çimen_geze_geze-green)
 
 - Yazılar da Konuşur [Go](https://github.com/log101/YARP/blob/main/projects/golang/yazilar-da-konusur-go.md) ![orta](https://img.shields.io/badge/yaparım_bilirsin-orange)
 
