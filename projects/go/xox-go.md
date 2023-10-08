@@ -16,7 +16,7 @@ Ortaya mı köşeye mı? İlkokulda sıralarımızda çiçek olduktan sonra en s
 1. Oyun tahtasını temsil eden 3x3'lük bir matris oluşturun.
 2. Tahtanın istenen hücresine "X" veya "O" koyulmasını sağlayacak bir fonksiyon yazın. Tahtayı ekrana yazdırmak zorunda değilsiniz.
 3. Önceki maddedeki işi sırayla yaptıracak bir fonksiyon yazın. Bu fonksiyon oyunun sırayla oynanabilmesini sağlayacak.
-- Tahtada bir oyuncunun kazanıp kazanmadığını kontrol eden bir fonksiyon yazın. Böylece oyun sonsuza kadar devam etmeyecek.
+4. Tahtada bir oyuncunun kazanıp kazanmadığını kontrol eden bir fonksiyon yazın. Böylece oyun sonsuza kadar devam etmeyecek.
 
 ## Öğrenilmesi Gereken Konular & Kavramlar
 
