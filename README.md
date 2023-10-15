@@ -16,6 +16,8 @@ Yakında!
 
 - Ping, PONG [Python](https://github.com/log101/YARP/blob/main/projects/python/ping-pong-python.md),  [Go](https://github.com/log101/YARP/blob/main/projects/go/ping-pong-go.md) ![kolay](https://img.shields.io/badge/çayır_çimen_geze_geze-green)
 
+- O|X|O [Go](https://github.com/log101/YARP/blob/main/projects/go/xox-go.md) ![kolay](https://img.shields.io/badge/çayır_çimen_geze_geze-green)
+
 - Benim Adım Snorlax [Python](https://github.com/log101/YARP/blob/main/projects/python/benim-adim-snorlax-python.md), [Go](https://github.com/log101/YARP/blob/main/projects/go/benim-adim-snorlax-go.md) ![kolay](https://img.shields.io/badge/çayır_çimen_geze_geze-green)
 
 - Ben bir API'yim [Python](https://github.com/log101/YARP/blob/main/projects/python/ben-bir-apiyim-python.md), [Go](https://github.com/log101/YARP/blob/main/projects/go/ben-bir-apiyim-go.md) ![kolay](https://img.shields.io/badge/çayır_çimen_geze_geze-green)
