@@ -6,7 +6,7 @@ Programcılar için bir başka eğitim serisi 🥱
 
 ## Giriş
 
-Yakında!
+Bana balık verme, bana iyi bir olta ver demişler. Bir işin adım adım nasıl yapıldığını ezberlemek oldukça basittir. Fakat bu adımları tekrar edebilmeniz için bu adımları *neden* attığınızı bilmeniz gerekiyor. YARP'ın temelinde de bu düşünce var. Aşağıda yazılımcı kaslarınızı güçlendirebileceğiniz bir sürü proje dokümanı mevcut, bu dokümanlarda projeleri nasıl yapacağınızı değil, bunları tamamlamak için ne yapmanız gerektiğini bulacaksınız. Unutmayın, bir yazılımcının asli görevi sorun çözmek, çözemiyorsa suçu müdürüne atmaktır. Kolaylıklar, başarılar! 🚀
 
 ## Projeler
 
