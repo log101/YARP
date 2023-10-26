@@ -1,5 +1,5 @@
 
-# O|X|O (Go)
+# O|X|O (Go) 1. Kısım
 
 ![gif](https://media.giphy.com/media/qAWWpdxRzQCFEVGbiJ/giphy.gif)
 
