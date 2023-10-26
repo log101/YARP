@@ -1,4 +1,4 @@
-# O|X|O (Go) API ile Oyun - 2. Bölüm
+# O|X|O (Go) - 2. Kısım
 
 ## Giriş
 
