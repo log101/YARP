@@ -1,4 +1,4 @@
-# Yapma N'olursun! (Go) 1. Kısım
+# Yapma N'olursun! (Go): 1. Kısım
 
 ![gif](https://media.giphy.com/media/3o7WIE14z2d66BJWJa/giphy.gif)
 
