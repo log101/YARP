@@ -1,4 +1,4 @@
-# O|X|O (Go) - 2. Kısım
+# O|X|O (Go): 2. Kısım
 
 ## Giriş
 
