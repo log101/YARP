@@ -1,4 +1,4 @@
-# O|X|O (Go): 3. Kısım
+# O|X|O (Javascript): 3. Kısım
 
 ![gif](https://media.giphy.com/media/3og0IEb2EuRQ3xc7kY/giphy.gif)
 
