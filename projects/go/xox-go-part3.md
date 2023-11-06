@@ -37,13 +37,16 @@ Kimsenin olmadığı bir yerde atılmış bir API isteği, gerçekten bir yanıt
 ## Projenin Sağlaması Gereken Şartlar
 
 - İlk hamle her zaman "X" olmalı.
+- Bütün HTML, CSS ve Javascript kodu tek bir dosyada olmalı.
 
 ## İpuçları
 
 - Konu HTML, CSS, Javascript olduğunda ilk başvurmanız gereken kaynak: [MDN](https://developer.mozilla.org/en-US/)
 - Başta görüntünün güzelliğine takılmayın, öncelikli olan oyunun çalışması.
 - İçerisi boş bir elemanın sınırlarını genişlik ve yükseklik vererek belirleyebilirsiniz.
+- Javascript kodlarınızı body etiketinin en altına koymayı unutmayın, yoksa kodunuz sayfa yüklenmeden çalışmaya başlar ve hata alırsınız.
 
 ## Kendini Biraz Daha Zorlamak İsteyenler İçin
 
 - Bilgisayara karşı oynama modu ekleyin.
+- HTML, CSS ve Javscript kodlarınızı ayrı ayrı dosyalarda tutun.
