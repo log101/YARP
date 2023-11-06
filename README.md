@@ -15,7 +15,7 @@ Bana balık verme, bana iyi bir olta ver demişler. Bir işin adım adım nasıl
 ### Daha önce hesap makinesi yazmıştım! 😌
 
 - Ping, PONG [Python](https://github.com/log101/YARP/blob/main/projects/python/ping-pong-python.md),  [Go](https://github.com/log101/YARP/blob/main/projects/go/ping-pong-go.md)
-- O|X|O 1. Kısım: [Go](https://github.com/log101/YARP/blob/main/projects/go/xox-go.md), 2. Kısım: [Go](https://github.com/log101/YARP/blob/main/projects/go/xox-go-part2.md)
+- O|X|O 1. Kısım: [Go](https://github.com/log101/YARP/blob/main/projects/go/xox-go.md), 2. Kısım: [Go](https://github.com/log101/YARP/blob/main/projects/go/xox-go-part2.md), 3. Kısım: [Go](https://github.com/log101/YARP/blob/main/projects/go/xox-go-part3.md)
 
 - Benim Adım Snorlax [Python](https://github.com/log101/YARP/blob/main/projects/python/benim-adim-snorlax-python.md), [Go](https://github.com/log101/YARP/blob/main/projects/go/benim-adim-snorlax-go.md)
 
