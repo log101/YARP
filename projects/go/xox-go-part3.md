@@ -23,7 +23,7 @@ Kimsenin olmadığı bir yerde atılmış bir API isteği, gerçekten bir yanıt
 
 ## Öğrenilmesi Gereken Konular & Kavramlar
 
-- HTML ne işe yarar?
+- HTML
   - div, p etiketleri (tag)
   - onClick olay işleyicisi (event handler)
 - CSS
