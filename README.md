@@ -12,8 +12,8 @@ Bana balık verme, bana iyi bir olta ver demişler. Bir işin adım adım nasıl
 
 ### 1. Seviye: Programlama derken? 😶
 
-- Şifreyi çöz: gAAAAABlzzN6QU4FuQ6_Vxlr1CwlTurvSsQ9bjt6rqryV1PpZ9rSZJoydOvflgXCkhkdXHW-Xg9KAehl8EVfDwOdpS5GxqDMHuHMmSrXyQFiLcRk_SdzTuogiY2-tJS6iFOuUWWNBXxn
-- Anahtar: aADonlZD2Vc0kPnN3dgcXn4cRenQYioxQayBylH-PiY=
+- Şifreyi çöz: `gAAAAABlzzN6QU4FuQ6_Vxlr1CwlTurvSsQ9bjt6rqryV1PpZ9rSZJoydOvflgXCkhkdXHW-Xg9KAehl8EVfDwOdpS5GxqDMHuHMmSrXyQFiLcRk_SdzTuogiY2-tJS6iFOuUWWNBXxn`
+- Anahtar: `aADonlZD2Vc0kPnN3dgcXn4cRenQYioxQayBylH-PiY=`
 
 ### 2. Seviye: Daha önce hesap makinesi yazmıştım! 😌
 
